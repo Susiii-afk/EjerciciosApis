@@ -37,7 +37,7 @@ Descripción breve del ejercicio 2.
 
 ---
 
-### Ejercicio 3
+### Ejercicio 3.1 y 3.2
 Descripción breve del ejercicio 3.
 
 - Imagen 3.1: `https://github.com/Susiii-afk/EjerciciosApis/blob/main/3.1.png?raw=true`
